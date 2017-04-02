@@ -47,7 +47,7 @@ function addCSS() {
 		"width": "100%",
 		"display": "table-cell",
 		"vertical-align": "middle",
-		"color": "#222",
+		"color": "#000",
 		"font-family": "'Big John', sans-serif"
 	});
 	$("h1").css({
